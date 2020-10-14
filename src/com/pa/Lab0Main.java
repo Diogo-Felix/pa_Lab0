@@ -14,5 +14,6 @@ public class Lab0Main {
         group.addMember(p3);
 
         System.out.println(group.toString());
+        System.out.println("\n");
     }
 }

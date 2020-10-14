@@ -11,5 +11,7 @@ public class PersonTest {
     public void testGetName(){
         Person p1 = new Person(5, "diogo");
         assertEquals("diogo", p1.getName());
+
+        assertEquals(5,p1.getId());
     }
 }

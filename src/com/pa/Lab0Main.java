@@ -16,5 +16,7 @@ public class Lab0Main {
         } catch(GroupException e){
             System.out.println(e.getMessage());
         }
+
+        System.out.println("\n");
     }
 }
